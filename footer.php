@@ -14,7 +14,7 @@
 
 <div class="container" id="footer">
     <div id="copyright">
-	   <b>Copyright &copy; <?php echo date("Y"); ?> ML Building Supply Ltd.</b>
+	   <b>Copyright &copy; <?php echo date("Y"); ?> ML Building Supply  Ltd.</b>
     </div>
 </div>
 
